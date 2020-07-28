@@ -9,5 +9,4 @@ class TeamvoyApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
