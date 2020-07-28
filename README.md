@@ -11,3 +11,4 @@ You can upload the source code on any public repository.
 Expected Result
 Bugs free source code with the full-implemented requirements
 
+To run the app, simply fork the project and run TeamvoyApplication class
